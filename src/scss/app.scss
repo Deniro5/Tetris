@@ -1,0 +1,11 @@
+
+@import './components/home.scss';
+@import './components/gameinfo.scss';
+@import './components/board.scss';
+@import './components/intro.scss';
+
+body {
+  margin: 0;
+  font-family: "Palatino", "Lucida Grande", sans-serif;
+  background:rgb(3, 3, 63)
+}

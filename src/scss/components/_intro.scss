@@ -1,0 +1,28 @@
+.introContainer {
+  position: absolute;
+  left:50%;
+  top:40%;
+  margin-left:-100px;
+  margin-top: -125px;
+  width:200px;
+  height:250px;
+  color:white;
+  button {
+    width:100px;
+    height:25px;
+    border: 1px solid white;
+    border-radius: 5px;
+    color:white;
+    background: black;
+    margin-top:40px;
+    cursor: pointer;
+    transition: 0.5s;;
+  }
+  button:hover {
+     background:white;
+     color:black;
+  }
+  h2 {
+    font-size:36px;
+  }
+}

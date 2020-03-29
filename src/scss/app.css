@@ -1,0 +1,66 @@
+.homeContainer {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.wordGridContainer {
+  border: 1px solid black;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+}
+
+.wordGridContainer p {
+  display: inline-block;
+  margin: 10px;
+  height: 15px;
+  width: 15px;
+  font-size: 18px;
+}
+
+.wordBankContainer {
+  width: 200px;
+  text-align: left;
+  margin-left: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.wordBankContainer p {
+  display: inline-block;
+  width: 90px;
+  margin: auto;
+  margin: 9px 5px;
+}
+
+.wordBankContainer .found {
+  color: green;
+  text-decoration: line-through;
+}
+
+.wordBankContainer button {
+  margin-top: 30px;
+  height: 30px;
+  width: 150px;
+  border: black 1px solid;
+  color: black;
+  border-radius: 2px;
+  background: white;
+  cursor: pointer;
+  font-size: 13px;
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
+}
+
+.wordBankContainer button:hover {
+  background: whitesmoke;
+}
+
+body {
+  margin: 0;
+  font-family: "Palatino", "Lucida Grande", sans-serif;
+}
+/*# sourceMappingURL=app.css.map */
