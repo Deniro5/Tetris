@@ -1,16 +1,12 @@
-import React from 'react';
-import Board from './Board';
+import React from "react";
+import Board from "./Board";
 
-const Home = props => {
-
+const Home = (props) => {
   return (
-    <div className="homeContainer">
-      <Board/>
+    <div className='homeContainer'>
+      <Board />
     </div>
   );
-}
-
+};
 
 export default Home;
-
-
