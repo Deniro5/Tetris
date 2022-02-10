@@ -9,7 +9,7 @@
     "antd": "^3.20.7",
     "classnames": "^2.2.6",
     "history": "^4.10.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "0.0.0-b53ea6ca0",
     "react-dom": "0.0.0-b53ea6ca0",
     "react-material-ui-form-validator": "^2.0.3",
