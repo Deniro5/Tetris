@@ -1,7 +1,6 @@
 import { create } from "zustand";
 import { Board } from "../types/Board";
-import { Shape, shapes } from "../shapes";
-import { getRandomShape } from "../utils";
+import { Shape } from "../shapes";
 
 interface BoardState {
   board: Board; // should be 'colors'
